@@ -6,7 +6,7 @@ Frontend dev crafting clean, user-friendly web apps. Always learning! 🚀
 - 💻 I’m proficient in multiple languages: **React JS**, **Python**, **C**, and **Java**.
 
 
-### 💞️ I’m looking to collaborate on
+###  I’m looking to collaborate on
 I’m open to collaborating on projects related to:
 - **Frontend Development** – especially projects using React.
 
